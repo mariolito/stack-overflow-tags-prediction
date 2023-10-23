@@ -32,6 +32,7 @@ pip install -r requirements.txt
 ```
 
 ### Download datasets
+* `kaggle datasets download -d stackoverflow/stacksample`
 * Extract and copy all data files in `data/`. 
 
 
